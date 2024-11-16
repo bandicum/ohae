@@ -206,13 +206,23 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "2b38fb8ef17d9e2b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 645.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,13 +237,14 @@
       "random-note:Open random note": false,
       "homepage:Open homepage": false,
       "card-note:Search Notes": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "fc221297ebf304e1",
   "lastOpenFiles": [
-    "Cncpt.md",
     "minemain/Setting/world/Systems - remake.md",
+    "Cncpt.md",
     "README.md",
     "LICENSE",
     "minemain/Setting/world/Systems.md",
