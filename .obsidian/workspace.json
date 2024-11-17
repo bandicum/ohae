@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "minemain/Setting/world/Systems - remake.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Systems - remake"
+              "title": "Untitled"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "1e60faba025956e1",
   "lastOpenFiles": [
-    "minemain/Setting/Entities.md",
     "minemain/Setting/world/Systems - remake.md",
+    "minemain/Setting/Entities.md",
     "Второмирье.md",
     "звания.md",
     "Cncpt.md",
