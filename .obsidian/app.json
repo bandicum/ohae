@@ -3,5 +3,7 @@
   "alwaysUpdateLinks": true,
   "trashOption": "local",
   "readableLineLength": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
