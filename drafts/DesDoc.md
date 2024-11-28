@@ -10,7 +10,7 @@ date of change:
 *Выживание любой ценой ведет к потере человечности.*
 
  **Пояснение:**
- [[./minemain/Characters/Main Character/Main Character]] на начало истории соответствует этому концепту — [[./minemain/Structure/MC development structure#A weak Main Character — Starting point]]. Вкратце: Он слабоволен, немощен и совершенно ни на что не способен. [[./minemain/Structure/MC development structure#The event that initiates the development of MC]] служит катализатором развития персонажа.
+ [[./minemain/Characters/Main Character/Main Character]] на начало истории соответствует этому концепту — [[./drafts/Characters/Main Character/MC development structure#A weak Main Character — Starting point]]. Вкратце: Он слабоволен, немощен и совершенно ни на что не способен. [[./drafts/Characters/Main Character/MC development structure#The event that initiates the development of MC]] служит катализатором развития персонажа.
  
 ###### **Жанры:**
 Антиутопия, Жестокий мир, Боевик, Экшен, Триллер, Насилие / жестокость, Огнестрельное оружие, Антигерой, Умный гг, Борьба за власть, Магия, Сверхъестественное, Монстры, Вампиры, Мистицизм, Безумие, Ужасы, Трагедия, Военное.
